@@ -5,6 +5,8 @@ Using the scaleability and ease of use of sequalize, the user can effect change 
 uses insomnia to run, as it is an isolated back end.
 
 
+![gif of view prompts](./assets/example.gif)
+
 ## Contributors
 
 Gregory D'Amato
